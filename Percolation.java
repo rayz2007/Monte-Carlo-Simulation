@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Ray Zhang
+ *  Date: April 20, 2019
+ *  Description: Percolation.java
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
